@@ -33,5 +33,6 @@ document.write(message.toUpperCase());
 console.log(message.trim())
 console.log(message.includes("Potato"))
 console.log(message.slice(0, 6));
+
 // 5. Mini Project: Interactive Story
 // Activity: Ask the user for inputs and create a short story using their responses
